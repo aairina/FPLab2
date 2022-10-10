@@ -10,5 +10,5 @@ public class DogView {
             System.out.println("Birth year: " + dogBirthYear);
             System.out.println("Jump Height: " + dogJumpHeight + "m");
         }
-    
+    //
 }
